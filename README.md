@@ -29,3 +29,12 @@ active. The two cells on each end have a single adjacent cell, so assume that th
 space on the opposite side is an inactive cell. Even after updating the cell state, consider its
 previous state when updating the state of other cells. The state information of all cells should
 be updated simultaneously.
+
+**`alexa_vegetarian_restaurants.py`:**
+Amazon's Alexa team is working on optimizing the customer experience for scenarios where
+customers ask generic questions. One example of a generic question is "What are good
+vegetarian restaurants nearby?". In this scenario, Alexa would then search for a list of
+vegetarian restaurants in the city and select the nearest X vegetarian restaurants relative
+to the customer's location.
+Given an array representing the locations of N vegetarian restaurants in the city,
+this algorithm finds the nearest X vegetarian restaurants to the customer's location.

@@ -38,3 +38,11 @@ vegetarian restaurants in the city and select the nearest X vegetarian restauran
 to the customer's location.
 Given an array representing the locations of N vegetarian restaurants in the city,
 this algorithm finds the nearest X vegetarian restaurants to the customer's location.
+
+**`building_lot.py`:**
+You are in charge of preparing a recently purchased lot for one of Amazon's new buildings.
+The lot is covered with trenches and has a single obstacle that needs to be taken down before
+the foundation can be prepared for the building. The demolition robot must remove the obstacle
+before process can be made on the building.
+The algorithm implemented determines the minimum distance required for the demolition robot
+to remove the obstacle.
